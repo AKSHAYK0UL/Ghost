@@ -96,7 +96,7 @@ curl http://localhost:8080/
 ### POST Request
 
 ```bash
-curl -X POST http://localhost:8080/add/1 \
+curl -X POST http://localhost:8080/add \
      -H "Content-Type: application/json" \
      -d '"Hello Ghost"'
 ```
