@@ -18,7 +18,7 @@ Ghost is a lightweight HTTP framework built in Go. It provides a simple way to d
 ## 📂 Project Structure
 
 ```
-ghost_0.1/
+Ghost/
 ├── context/        # Custom Context (request/response handling)
 │   └── context.go
 ├── ghost/          # Framework core (router, server)
