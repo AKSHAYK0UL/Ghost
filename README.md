@@ -33,8 +33,8 @@ ghost_0.1/
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/ghost.git
-cd ghost_0.1
+git clone https://github.com/AKSHAYK0UL/Ghost.git
+cd Ghost
 ```
 
 Run the server:
